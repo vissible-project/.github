@@ -30,7 +30,7 @@ We recognize that the braille cell is significantly larger than an average one, 
 
 
 ## 3. Impact
-When taken to market. The project won't only be of benefit to the blind.
+When taken to market, we believe the project will be of benefit to not only the blind but also to the community and skilled-workers required to produce these devices at scale.When taken to market. The project won't only be of benefit to the blind.
   
 We are open-sourcing this project as we believe it will take a concerted effort to further bring the advances that have been made in digital technologies to the blind.
   
